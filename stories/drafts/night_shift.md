@@ -13,7 +13,7 @@ At 02:13, the city was awake.
 
 Markets glowed beneath white shade roofs. Children played in mist corridors. Delivery crawlers hummed through streets that would be empty by sunrise.
 
-Above them, Line Crew Nine climbed Tower 6 with the temperature still at forty-one degrees.
+Above them, Line Crew Nine climbed Tower 6 with the temperature still at one hundred six degrees.
 
 Jo Renn locked her boots to the lattice and looked down.
 
@@ -55,7 +55,7 @@ Malik climbed beside her. Sweat floated inside his face seal.
 
 Below, thousands of cooling units pulled against the grid.
 
-At sunrise, the outside temperature would pass fifty. Apartments in the oldest districts stored heat through the day. Without night cooling, people would begin the morning already sick.
+At sunrise, the outside temperature would pass one hundred twenty-two. Apartments in the oldest districts stored heat through the day. Without night cooling, people would begin the morning already sick.
 
 Jo opened the load map.
 

@@ -167,11 +167,11 @@ She traced the system back through decades of repair records. Original actuator 
 
 Then she found a maintenance note entered nine years earlier.
 
-THERMAL EXPANSION EXCEEDS CALIBRATION ENVELOPE ABOVE 43°C AMBIENT. MANUAL SHIM RECOMMENDED.
+THERMAL EXPANSION EXCEEDS CALIBRATION ENVELOPE ABOVE 109°F AMBIENT. MANUAL SHIM RECOMMENDED.
 
 Mara checked the exterior wall temperature.
 
-Forty-seven degrees.
+One hundred seventeen degrees.
 
 “Has anyone inspected the gate physically?” she asked.
 

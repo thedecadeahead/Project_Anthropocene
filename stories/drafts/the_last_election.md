@@ -127,7 +127,7 @@ Mara Quill answered by radio from an unknown location.
 
 “A government that cannot survive a vote has already failed continuity.”
 
-At 15:00, the outside temperature reached fifty-two degrees.
+At 15:00, the outside temperature reached one hundred twenty-six degrees.
 
 The armored crews began rotating into Hall Seven’s shade.
 

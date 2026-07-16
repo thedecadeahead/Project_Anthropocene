@@ -109,7 +109,7 @@ Sera looked at the corrupted satellite image, the faulty ridge instruments, the 
 
 The convoy turned south.
 
-At midday, rain struck the pass in sheets. By one, the temperature fell twelve degrees. Water froze across the old pavement. At two, the mountains disappeared behind snow and airborne ice.
+At midday, rain struck the pass in sheets. By one, the temperature fell twenty-two degrees. Water froze across the old pavement. At two, the mountains disappeared behind snow and airborne ice.
 
 The pass sensors went dark one by one.
 
