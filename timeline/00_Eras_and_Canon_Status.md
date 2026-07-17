@@ -68,3 +68,7 @@ The periods after 2150 remain undefined pending regional research. Likely themes
 - Named global events remain provisional until supported by regional research.
 - The current framework establishes sequence, not exact casualty totals or political borders.
 - Every future revision should preserve the principle that collapse occurs unevenly and cumulatively.
+
+## Research Basis
+
+These eras summarize the provisional histories, which are themselves derived from the [research library](../research/README.md) and the [climate evidence timeline](2025-2100_climate_evidence.md). Full source citations are indexed in the [master bibliography](../research/bibliography.md).

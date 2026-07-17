@@ -110,10 +110,21 @@ It supports only the following provisional structure:
 - **2050-2075:** compound shocks increasingly erode recovery capacity.
 - **2075-2100:** severe climate stress and institutional divergence create conditions for the later break in globalism.
 
+## Research Basis
+
+This timeline is derived from the project's climate research notes, not written independently. The warming and sea-level figures above trace directly to:
+
+- [research/climate/baseline_scenario.md](../research/climate/baseline_scenario.md) — the hybrid emissions pathway and the ~3.2 °C late-century central value.
+- [research/climate/sea_level_bounds.md](../research/climate/sea_level_bounds.md) — the sea-level planning range.
+
+For full citations with stable links, see the [master bibliography](../research/bibliography.md#climate).
+
 ## Sources
 
-- Intergovernmental Panel on Climate Change. *Climate Change 2021: The Physical Science Basis*. 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. 2023.
-- United Nations Environment Programme. *Emissions Gap Report 2025: Off Target*. 2025.
-- Sweet, W. V., et al. *Global and Regional Sea Level Rise Scenarios for the United States*. NOAA Technical Report NOS 01. 2022.
+Full citations and stable links are indexed in the [master bibliography](../research/bibliography.md#climate).
+
+- Intergovernmental Panel on Climate Change. [*Climate Change 2021: The Physical Science Basis*](https://www.ipcc.ch/report/ar6/wg1/). 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2023: Synthesis Report*](https://www.ipcc.ch/report/ar6/syr/). 2023.
+- United Nations Environment Programme. [*Emissions Gap Report 2025: Off Target*](https://www.unep.org/resources/emissions-gap-report-2025). 2025.
+- Sweet, W. V., et al. [*Global and Regional Sea Level Rise Scenarios for the United States*](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html). NOAA Technical Report NOS 01. 2022.

@@ -14,8 +14,9 @@ Every source is a single linked entry in this format:
 ```
 
 - The **link** points to a stable identifier (DOI, report landing page, or dataset home) rather than a temporary URL wherever one exists.
-- **Used in** cross-links to every research note that draws on the source, so canon can be traced back to evidence in one step.
+- **Used in** cross-links to every research note — and, where relevant, timeline or canon file — that draws on the source, so canon can be traced back to evidence in one step.
 - Series that publish annually (e.g. FAO SOFI, IOM World Migration Report) link to the series landing page; consult the specific edition cited in the note.
+- Fixed-document sources (reports, assessments, standards) also carry an ` · [archived]` link to a Wayback Machine snapshot, so the citation survives if the publisher reorganizes its site. DOIs, permalink repositories (OSTI, IETF Datatracker), and continuously updated datasets are omitted because they are already durable or change by design.
 
 ## Status Tags
 
@@ -46,18 +47,18 @@ For sources that warrant a full record (foundational or contested ones), append 
 
 ## Climate
 
-- **[IPCC AR6 Working Group I — *Climate Change 2021: The Physical Science Basis*](https://www.ipcc.ch/report/ar6/wg1/)** — IPCC, 2021. *Assessment.* `[FOUNDATIONAL]`
-  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md), [climate/sea_level_bounds.md](climate/sea_level_bounds.md)
-- **[IPCC AR6 Working Group II — *Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/)** — IPCC, 2022. *Assessment.* `[FOUNDATIONAL]`
-  Used in: [agriculture/wheat_heat_risk.md](agriculture/wheat_heat_risk.md), [agriculture/multiple_breadbasket_failure.md](agriculture/multiple_breadbasket_failure.md), [water/water_stress_and_systemic_risk.md](water/water_stress_and_systemic_risk.md), [health/extreme_heat_and_habitability.md](health/extreme_heat_and_habitability.md), [demography/population_change_after_crisis.md](demography/population_change_after_crisis.md), [migration/climate_migration_and_destination_stress.md](migration/climate_migration_and_destination_stress.md), [economics/climate_insurance_retreat.md](economics/climate_insurance_retreat.md), [governance/state_capacity_and_emergency_rule.md](governance/state_capacity_and_emergency_rule.md), [conflict/climate_as_conflict_multiplier.md](conflict/climate_as_conflict_multiplier.md)
-- **[IPCC AR6 Working Group III — *Climate Change 2022: Mitigation of Climate Change*](https://www.ipcc.ch/report/ar6/wg3/)** — IPCC, 2022. *Assessment.* `[FOUNDATIONAL]`
+- **[IPCC AR6 Working Group I — *Climate Change 2021: The Physical Science Basis*](https://www.ipcc.ch/report/ar6/wg1/)** — IPCC, 2021. *Assessment.* `[FOUNDATIONAL]` · [archived](https://web.archive.org/web/2024/https://www.ipcc.ch/report/ar6/wg1/)
+  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md), [climate/sea_level_bounds.md](climate/sea_level_bounds.md), [timeline/2025-2100_climate_evidence.md](../timeline/2025-2100_climate_evidence.md)
+- **[IPCC AR6 Working Group II — *Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/)** — IPCC, 2022. *Assessment.* `[FOUNDATIONAL]` · [archived](https://web.archive.org/web/2024/https://www.ipcc.ch/report/ar6/wg2/)
+  Used in: [agriculture/wheat_heat_risk.md](agriculture/wheat_heat_risk.md), [agriculture/multiple_breadbasket_failure.md](agriculture/multiple_breadbasket_failure.md), [water/water_stress_and_systemic_risk.md](water/water_stress_and_systemic_risk.md), [health/extreme_heat_and_habitability.md](health/extreme_heat_and_habitability.md), [demography/population_change_after_crisis.md](demography/population_change_after_crisis.md), [migration/climate_migration_and_destination_stress.md](migration/climate_migration_and_destination_stress.md), [economics/climate_insurance_retreat.md](economics/climate_insurance_retreat.md), [governance/state_capacity_and_emergency_rule.md](governance/state_capacity_and_emergency_rule.md), [conflict/climate_as_conflict_multiplier.md](conflict/climate_as_conflict_multiplier.md), [timeline/2025-2100_climate_evidence.md](../timeline/2025-2100_climate_evidence.md)
+- **[IPCC AR6 Working Group III — *Climate Change 2022: Mitigation of Climate Change*](https://www.ipcc.ch/report/ar6/wg3/)** — IPCC, 2022. *Assessment.* `[FOUNDATIONAL]` · [archived](https://web.archive.org/web/2024/https://www.ipcc.ch/report/ar6/wg3/)
   Used in: [energy/grid_resilience_and_fragmentation.md](energy/grid_resilience_and_fragmentation.md)
-- **[IPCC AR6 Synthesis Report — *Climate Change 2023*](https://www.ipcc.ch/report/ar6/syr/)** — IPCC, 2023. *Assessment.* `[FOUNDATIONAL]`
-  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md), [climate/sea_level_bounds.md](climate/sea_level_bounds.md)
-- **[UNEP *Emissions Gap Report 2025: Off Target*](https://www.unep.org/resources/emissions-gap-report-2025)** — UN Environment Programme, 2025. *Assessment.* `[FOUNDATIONAL]`
-  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md)
-- **[Sweet et al. — *Global and Regional Sea Level Rise Scenarios for the United States* (NOAA Technical Report NOS 01)](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html)** — NOAA, 2022. *Technical report.* `[DOMAIN]`
-  Used in: [climate/sea_level_bounds.md](climate/sea_level_bounds.md)
+- **[IPCC AR6 Synthesis Report — *Climate Change 2023*](https://www.ipcc.ch/report/ar6/syr/)** — IPCC, 2023. *Assessment.* `[FOUNDATIONAL]` · [archived](https://web.archive.org/web/2024/https://www.ipcc.ch/report/ar6/syr/)
+  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md), [climate/sea_level_bounds.md](climate/sea_level_bounds.md), [timeline/2025-2100_climate_evidence.md](../timeline/2025-2100_climate_evidence.md)
+- **[UNEP *Emissions Gap Report 2025: Off Target*](https://www.unep.org/resources/emissions-gap-report-2025)** — UN Environment Programme, 2025. *Assessment.* `[FOUNDATIONAL]` · [archived](https://web.archive.org/web/2025/https://www.unep.org/resources/emissions-gap-report-2025)
+  Used in: [climate/baseline_scenario.md](climate/baseline_scenario.md), [timeline/2025-2100_climate_evidence.md](../timeline/2025-2100_climate_evidence.md)
+- **[Sweet et al. — *Global and Regional Sea Level Rise Scenarios for the United States* (NOAA Technical Report NOS 01)](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html)** — NOAA, 2022. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html)
+  Used in: [climate/sea_level_bounds.md](climate/sea_level_bounds.md), [timeline/2025-2100_climate_evidence.md](../timeline/2025-2100_climate_evidence.md)
 
 ## Agriculture and Food Systems
 
@@ -78,7 +79,7 @@ For sources that warrant a full record (foundational or contested ones), append 
 
 ## Water
 
-- **[UNESCO / UN-Water *World Water Development Report 2024: Water for Prosperity and Peace*](https://www.unesco.org/reports/wwdr/en/2024)** — UNESCO, 2024. *Assessment.* `[DOMAIN]`
+- **[UNESCO / UN-Water *World Water Development Report 2024: Water for Prosperity and Peace*](https://www.unesco.org/reports/wwdr/en/2024)** — UNESCO, 2024. *Assessment.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.unesco.org/reports/wwdr/en/2024)
   Used in: [water/water_stress_and_systemic_risk.md](water/water_stress_and_systemic_risk.md)
 - **[FAO AQUASTAT — global water information system](https://www.fao.org/aquastat/en/)** — FAO. *Dataset.* `[DOMAIN]`
   Used in: [water/water_stress_and_systemic_risk.md](water/water_stress_and_systemic_risk.md)
@@ -87,7 +88,7 @@ For sources that warrant a full record (foundational or contested ones), append 
 
 ## Ecology and Biodiversity
 
-_No sources cataloged yet._
+_No sources cataloged yet. Open questions for this domain are tracked in [00_Research_Questions.md](00_Research_Questions.md); add sources here as notes are written._
 
 ## Health
 
@@ -97,7 +98,7 @@ _No sources cataloged yet._
   Used in: [health/extreme_heat_and_habitability.md](health/extreme_heat_and_habitability.md)
 - **[Sherwood, S. C., and Huber, M. "An adaptability limit to climate change due to heat stress."](https://doi.org/10.1073/pnas.0913352107)** — *PNAS* 107(21), 2010. *Peer-reviewed article.* `[DOMAIN]`
   Used in: [health/extreme_heat_and_habitability.md](health/extreme_heat_and_habitability.md)
-- **[ISO 7243:2017 — Ergonomics of the thermal environment (WBGT index)](https://www.iso.org/standard/67188.html)** — International Organization for Standardization, 2017. *Standard.* `[DOMAIN]`
+- **[ISO 7243:2017 — Ergonomics of the thermal environment (WBGT index)](https://www.iso.org/standard/67188.html)** — International Organization for Standardization, 2017. *Standard.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.iso.org/standard/67188.html)
   Used in: [health/extreme_heat_and_habitability.md](health/extreme_heat_and_habitability.md)
 
 ## Demography and Migration
@@ -108,7 +109,7 @@ _No sources cataloged yet._
   Used in: [demography/population_change_after_crisis.md](demography/population_change_after_crisis.md)
 - **[Institute for Health Metrics and Evaluation (IHME)](https://www.healthdata.org/)** — IHME. *Dataset / research program.* `[DOMAIN]`
   Used in: [demography/population_change_after_crisis.md](demography/population_change_after_crisis.md)
-- **[Clement, V., et al. *Groundswell Part 2: Acting on Internal Climate Migration*](https://openknowledge.worldbank.org/handle/10986/36248)** — World Bank, 2021. *Technical report.* `[DOMAIN]`
+- **[Clement, V., et al. *Groundswell Part 2: Acting on Internal Climate Migration*](https://openknowledge.worldbank.org/handle/10986/36248)** — World Bank, 2021. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://openknowledge.worldbank.org/handle/10986/36248)
   Used in: [migration/climate_migration_and_destination_stress.md](migration/climate_migration_and_destination_stress.md)
 - **[IDMC *Global Report on Internal Displacement* (GRID)](https://www.internal-displacement.org/global-report/grid2024/)** — Internal Displacement Monitoring Centre, annual series. *Assessment.* `[DOMAIN]`
   Used in: [migration/climate_migration_and_destination_stress.md](migration/climate_migration_and_destination_stress.md)
@@ -119,24 +120,24 @@ _No sources cataloged yet._
 
 ## Economics and Insurance
 
-- **[U.S. Treasury Federal Insurance Office — *Analyses of U.S. Homeowners Insurance Markets, 2018–2022: Climate-Related Risks and Other Factors*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insurance-office)** — U.S. Department of the Treasury, 2025. *Technical report.* `[DOMAIN]`
+- **[U.S. Treasury Federal Insurance Office — *Analyses of U.S. Homeowners Insurance Markets, 2018–2022: Climate-Related Risks and Other Factors*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insurance-office)** — U.S. Department of the Treasury, 2025. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2025/https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insurance-office)
   Used in: [economics/climate_insurance_retreat.md](economics/climate_insurance_retreat.md)
 - **[U.S. GAO — Climate change and federal fiscal exposure (High Risk Series)](https://www.gao.gov/climate-change)** — U.S. Government Accountability Office, recurring. *Technical report.* `[DOMAIN]`
   Used in: [economics/climate_insurance_retreat.md](economics/climate_insurance_retreat.md)
-- **[Financial Stability Oversight Council — *Report on Climate-Related Financial Risk*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/fsoc/studies-and-reports)** — FSOC, 2021. *Technical report.* `[DOMAIN]`
+- **[Financial Stability Oversight Council — *Report on Climate-Related Financial Risk*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/fsoc/studies-and-reports)** — FSOC, 2021. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/fsoc/studies-and-reports)
   Used in: [economics/climate_insurance_retreat.md](economics/climate_insurance_retreat.md)
 
 ## Infrastructure and Energy
 
-- **[IEA *Electricity Grids and Secure Energy Transitions*](https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions)** — International Energy Agency, 2023. *Assessment.* `[DOMAIN]`
+- **[IEA *Electricity Grids and Secure Energy Transitions*](https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions)** — International Energy Agency, 2023. *Assessment.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions)
   Used in: [energy/grid_resilience_and_fragmentation.md](energy/grid_resilience_and_fragmentation.md)
-- **[IEA *Renewables 2024*](https://www.iea.org/reports/renewables-2024)** — International Energy Agency, 2024. *Assessment.* `[DOMAIN]`
+- **[IEA *Renewables 2024*](https://www.iea.org/reports/renewables-2024)** — International Energy Agency, 2024. *Assessment.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.iea.org/reports/renewables-2024)
   Used in: [energy/grid_resilience_and_fragmentation.md](energy/grid_resilience_and_fragmentation.md)
 - **[NERC *Long-Term Reliability Assessment*](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx)** — North American Electric Reliability Corporation, annual series. *Assessment.* `[DOMAIN]`
   Used in: [energy/grid_resilience_and_fragmentation.md](energy/grid_resilience_and_fragmentation.md)
 - **[U.S. DOE Grid Deployment Office — grid resilience and transformer supply-chain work](https://www.energy.gov/topics/grid-deployment-and-transmission)** — U.S. Department of Energy. *Technical report.* `[DOMAIN]`
   Used in: [energy/grid_resilience_and_fragmentation.md](energy/grid_resilience_and_fragmentation.md)
-- **[ITU — Emergency telecommunications and disaster resilience](https://www.itu.int/en/ITU-D/Emergency-Telecommunications/Pages/default.aspx)** — International Telecommunication Union. *Policy guidance.* `[DOMAIN]`
+- **[ITU — Emergency telecommunications and disaster resilience](https://www.itu.int/en/ITU-D/Emergency-Telecommunications/Pages/default.aspx)** — International Telecommunication Union. *Policy guidance.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.itu.int/en/ITU-D/Emergency-Telecommunications/Pages/default.aspx)
   Used in: [infrastructure/communications_after_fragmentation.md](infrastructure/communications_after_fragmentation.md)
 - **[Matracia, M., Saeed, N., Kishk, M. A., and Alouini, M.-S. "Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges."](https://doi.org/10.1109/OJCOMS.2022.3192040)** — *IEEE Open Journal of the Communications Society* 3, 1177–1205, 2022. *Peer-reviewed article.* `[DOMAIN]`
   Used in: [infrastructure/communications_after_fragmentation.md](infrastructure/communications_after_fragmentation.md)
@@ -146,7 +147,7 @@ _No sources cataloged yet._
   Used in: [infrastructure/communications_after_fragmentation.md](infrastructure/communications_after_fragmentation.md)
 - **[UNIDO *Industrial Development Report*](https://www.unido.org/idr)** — UN Industrial Development Organization, series. *Assessment.* `[DOMAIN]`
   Used in: [infrastructure/industrial_capacity_and_maintenance.md](infrastructure/industrial_capacity_and_maintenance.md)
-- **[U.S. DOE *2023 Critical Materials Assessment*](https://www.energy.gov/eere/wind/articles/doe-announces-new-critical-materials-assessment-and-funding-program)** — U.S. Department of Energy, 2023. *Technical report.* `[DOMAIN]`
+- **[U.S. DOE *2023 Critical Materials Assessment*](https://www.energy.gov/eere/wind/articles/doe-announces-new-critical-materials-assessment-and-funding-program)** — U.S. Department of Energy, 2023. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.energy.gov/eere/wind/articles/doe-announces-new-critical-materials-assessment-and-funding-program)
   Used in: [infrastructure/industrial_capacity_and_maintenance.md](infrastructure/industrial_capacity_and_maintenance.md)
 - **[USGS *Mineral Commodity Summaries*](https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries)** — U.S. Geological Survey, annual series. *Dataset.* `[DOMAIN]`
   Used in: [infrastructure/industrial_capacity_and_maintenance.md](infrastructure/industrial_capacity_and_maintenance.md)
@@ -155,17 +156,17 @@ _No sources cataloged yet._
 
 ## Technology
 
-- **[IEA *Electricity 2024* — data-centre electricity-demand analysis](https://www.iea.org/reports/electricity-2024)** — International Energy Agency, 2024. *Assessment.* `[DOMAIN]`
+- **[IEA *Electricity 2024* — data-centre electricity-demand analysis](https://www.iea.org/reports/electricity-2024)** — International Energy Agency, 2024. *Assessment.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.iea.org/reports/electricity-2024)
   Used in: [technology/ai_robotics_survival.md](technology/ai_robotics_survival.md)
-- **[NIST *Artificial Intelligence Risk Management Framework 1.0*](https://www.nist.gov/itl/ai-risk-management-framework)** — National Institute of Standards and Technology, 2023. *Framework.* `[DOMAIN]`
+- **[NIST *Artificial Intelligence Risk Management Framework 1.0*](https://www.nist.gov/itl/ai-risk-management-framework)** — National Institute of Standards and Technology, 2023. *Framework.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.nist.gov/itl/ai-risk-management-framework)
   Used in: [technology/ai_robotics_survival.md](technology/ai_robotics_survival.md)
 - **[IFR *World Robotics*](https://ifr.org/worldrobotics/)** — International Federation of Robotics, annual series. *Dataset.* `[DOMAIN]`
   Used in: [technology/ai_robotics_survival.md](technology/ai_robotics_survival.md)
-- **[SIA & BCG *Strengthening the Global Semiconductor Supply Chain in an Uncertain Era*](https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/)** — Semiconductor Industry Association & Boston Consulting Group, 2021. *Technical report.* `[DOMAIN]`
+- **[SIA & BCG *Strengthening the Global Semiconductor Supply Chain in an Uncertain Era*](https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/)** — Semiconductor Industry Association & Boston Consulting Group, 2021. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/)
   Used in: [technology/semiconductor_supply_chain.md](technology/semiconductor_supply_chain.md)
-- **[SIA & BCG *Emerging Resilience in the Semiconductor Supply Chain*](https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-chain/)** — Semiconductor Industry Association & Boston Consulting Group, 2024. *Technical report.* `[DOMAIN]`
+- **[SIA & BCG *Emerging Resilience in the Semiconductor Supply Chain*](https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-chain/)** — Semiconductor Industry Association & Boston Consulting Group, 2024. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-chain/)
   Used in: [technology/semiconductor_supply_chain.md](technology/semiconductor_supply_chain.md)
-- **[Khan, S. M., Mann, A., and Peterson, D. *The Semiconductor Supply Chain: Assessing National Competitiveness*](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)** — Center for Security and Emerging Technology (CSET), Georgetown University, 2021. *Technical report.* `[DOMAIN]`
+- **[Khan, S. M., Mann, A., and Peterson, D. *The Semiconductor Supply Chain: Assessing National Competitiveness*](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)** — Center for Security and Emerging Technology (CSET), Georgetown University, 2021. *Technical report.* `[DOMAIN]` · [archived](https://web.archive.org/web/2024/https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/)
   Used in: [technology/semiconductor_supply_chain.md](technology/semiconductor_supply_chain.md)
   _Note: earlier note text attributed this title to the U.S. Department of Commerce; the exact-title report is the CSET issue brief cited here. Verify before relying on the attribution in canon._
 - **[U.S. DOE — *Semiconductor Supply Chain Deep Dive Assessment*](https://www.osti.gov/biblio/1871585)** — U.S. Department of Energy, 2022. *Technical report.* `[DOMAIN]`
@@ -200,14 +201,17 @@ _No sources cataloged yet._
 
 ## Historical Analogues
 
-_No sources cataloged yet._
+_No sources cataloged yet. Open questions for this domain are tracked in [00_Research_Questions.md](00_Research_Questions.md); add sources here as notes are written._
 
 ## Bibliography Maintenance
 
 - Prefer stable identifiers (DOI, report landing page) over temporary links.
+- For fixed-document sources, add an archived Wayback snapshot alongside the live link (`https://web.archive.org/web/<year>/<url>`) so the citation survives site reorganizations.
 - Note when a source has been superseded, but do not silently remove it if canon previously relied upon it.
 - Record the date a web source was last checked in any detailed record block.
-- Link every source to the research notes that use it, and keep those cross-links current when notes are renamed or added.
+- Link every source to the research notes — and any timeline or canon file — that use it, and keep those cross-links current when notes are renamed or added.
 - Avoid placing a source in multiple sections; cross-reference it instead.
 - Do not treat inclusion in this bibliography as endorsement of every claim in a source.
+- This bibliography follows the citation practice defined in [docs/02_Research_Methodology.md](../docs/02_Research_Methodology.md); the source-quality tags draw on [docs/03_Source_Quality_Rubric.md](../docs/03_Source_Quality_Rubric.md).
+- Live links and anchors are checked automatically on every pull request by [.github/workflows/link-check.yml](../.github/workflows/link-check.yml).
 - Links last verified: 2026-07-16.

@@ -89,3 +89,14 @@ By 2050, Project Anthropocene assumes:
 - and the normalization of emergency governance.
 
 The world remains recognizably descended from the present. The old assumptions about permanent growth, universal insurability, and automatic recovery are beginning to fail.
+
+## Research Basis
+
+This provisional history is derived from the research library, not invented independently. Its major pressures trace to:
+
+- [research/climate/sea_level_bounds.md](../research/climate/sea_level_bounds.md) and [timeline/2025-2100_climate_evidence.md](2025-2100_climate_evidence.md) — the physical climate envelope.
+- [research/economics/climate_insurance_retreat.md](../research/economics/climate_insurance_retreat.md) — early financial retreat from high-risk property.
+- [research/migration/climate_migration_and_destination_stress.md](../research/migration/climate_migration_and_destination_stress.md) — internal displacement.
+- [research/governance/state_capacity_and_emergency_rule.md](../research/governance/state_capacity_and_emergency_rule.md) — the normalization of emergency governance.
+
+Full source citations are indexed in the [master bibliography](../research/bibliography.md).

@@ -85,3 +85,14 @@ By 2150, Project Anthropocene provisionally assumes:
 - and new civilizations are emerging from institutions originally created as emergency adaptations.
 
 The post-apocalyptic world begins when people stop expecting the old world to return.
+
+## Research Basis
+
+This provisional history is derived from the research library, not invented independently. Its major developments trace to:
+
+- [research/infrastructure/industrial_capacity_and_maintenance.md](../research/infrastructure/industrial_capacity_and_maintenance.md) — the "maintenance states" and the salvage-and-repair economy.
+- [research/technology/semiconductor_supply_chain.md](../research/technology/semiconductor_supply_chain.md) and [research/technology/ai_robotics_survival.md](../research/technology/ai_robotics_survival.md) — geographically concentrated advanced technology.
+- [research/infrastructure/communications_after_fragmentation.md](../research/infrastructure/communications_after_fragmentation.md) — recovering regional communications.
+- [research/demography/population_change_after_crisis.md](../research/demography/population_change_after_crisis.md) — population decline and new political identities.
+
+Full source citations are indexed in the [master bibliography](../research/bibliography.md).

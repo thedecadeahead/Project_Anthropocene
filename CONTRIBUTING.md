@@ -110,6 +110,8 @@ Research notes should answer a clear question and include:
 - proposed canon if applicable,
 - and complete citations.
 
+Every source belongs in the project's single index, [`research/bibliography.md`](research/bibliography.md), which defines the standard citation format and links each source to the notes that rely on it. Add new sources there and link a note's `## Sources` entries to the matching bibliography section rather than inventing a per-file format.
+
 Do not copy large portions of copyrighted sources into the repository. Summarize findings and quote only brief passages when exact language is important.
 
 ## Fiction and Game Material

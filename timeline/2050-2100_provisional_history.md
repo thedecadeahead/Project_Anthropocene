@@ -88,3 +88,14 @@ By 2100, Project Anthropocene provisionally assumes:
 - and no singular worldwide collapse event.
 
 The old world has not ended everywhere. It has stopped being one world.
+
+## Research Basis
+
+This provisional history is derived from the research library, not invented independently. Its major pressures trace to:
+
+- [research/climate/baseline_scenario.md](../research/climate/baseline_scenario.md) and [research/climate/sea_level_bounds.md](../research/climate/sea_level_bounds.md) — the ~3.2 °C warming and ~0.75 m sea-level figures above.
+- [research/agriculture/multiple_breadbasket_failure.md](../research/agriculture/multiple_breadbasket_failure.md) — correlated shocks and the recovery gap.
+- [research/energy/grid_resilience_and_fragmentation.md](../research/energy/grid_resilience_and_fragmentation.md) — functional retreat of infrastructure.
+- [research/geopolitics/fragmentation_of_globalism.md](../research/geopolitics/fragmentation_of_globalism.md) — the break-up of a single global order into "archipelago globalism."
+
+Full source citations are indexed in the [master bibliography](../research/bibliography.md).

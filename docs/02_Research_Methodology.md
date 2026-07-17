@@ -185,6 +185,8 @@ At minimum, record:
 
 Direct quotations should be brief and used only when exact wording matters.
 
+Every source should also be recorded once in the project's single index, [`research/bibliography.md`](../research/bibliography.md), which defines the standard entry format, status tags, and archival convention. Cite sources in a note's own `## Sources` section and link them to the relevant bibliography entry rather than maintaining separate formats in each file.
+
 ## Research Notes Template
 
 A research note should generally include:

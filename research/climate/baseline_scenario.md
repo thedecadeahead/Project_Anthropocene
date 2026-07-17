@@ -1,13 +1,13 @@
 ---
 title: Baseline Climate and Socioeconomic Scenario
-status: provisional
+status: active
 Domain: climate
 regions:
   - global
 time_period:
   - 2025-2300
 researchers:
-  - OpenAI
+  - thedecadeahead
 last_reviewed: 2026-07-12
 sources_count: 3
 ---

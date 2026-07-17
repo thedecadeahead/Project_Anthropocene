@@ -7,7 +7,7 @@ regions:
 time_period:
   - 2025-2250
 researchers:
-  - OpenAI
+  - thedecadeahead
 last_reviewed: 2026-07-12
 sources_count: 4
 ---

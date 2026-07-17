@@ -76,3 +76,7 @@ The current timeline does not yet establish:
 - or the definitive setting date.
 
 Those details require regional and domain-specific research before canonization.
+
+## Research Basis
+
+The chronology's climate spine is derived from [timeline/2025-2100_climate_evidence.md](2025-2100_climate_evidence.md), which in turn draws on the [research library](../research/README.md). Every era's social developments are grounded in the domain research notes cited in the corresponding provisional-history file. Full source citations are indexed in the [master bibliography](../research/bibliography.md).

@@ -1,0 +1,28 @@
+# Configuration for the lychee Markdown link checker.
+# See https://github.com/lycheeverse/lychee
+
+# Cache results between runs to speed up CI.
+cache = true
+max_cache_age = "2d"
+
+# Be patient with slow or rate-limited institutional servers.
+max_retries = 3
+retry_wait_time = 2
+timeout = 30
+
+# Send a browser-like User-Agent; many government and NGO sites reject
+# the default client outright.
+user_agent = "Mozilla/5.0 (compatible; lychee link checker)"
+
+# Treat these status codes as success. Several sources in the bibliography
+# (OECD, IMF, IEA, UNIDO, UNHCR, UNEP, etc.) return 403/429/503 to automated
+# clients even though the pages are live in a browser; failing on those would
+# be pure noise.
+accept = ["200..=206", "403", "429", "503"]
+
+# Do not check archived snapshots: the Wayback Machine aggressively rate-limits
+# CI runners, which would make the job flaky. The live link next to each
+# archived link is what we actually want verified.
+exclude = [
+  "^https://web\\.archive\\.org/",
+]

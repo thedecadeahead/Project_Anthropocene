@@ -1,0 +1,31 @@
+name: Link Check
+
+# Verifies that Markdown links across the repository still resolve. This keeps
+# the "show your work" bibliography and its cross-references from rotting.
+
+on:
+  push:
+    branches: [main]
+    paths: ['**/*.md']
+  pull_request:
+    paths: ['**/*.md']
+  schedule:
+    # Weekly sweep (Mondays 06:00 UTC) to catch external links that rot over time.
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check Markdown links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: "--config lychee.toml --no-progress './**/*.md'"
+          fail: true
