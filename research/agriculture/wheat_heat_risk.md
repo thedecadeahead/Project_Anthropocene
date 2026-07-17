@@ -117,8 +117,10 @@ Wheat remains biologically viable in the setting but undergoes a century of geog
 
 ## Sources
 
-- Asseng, S., et al. "Rising temperatures reduce global wheat production." *Nature Climate Change* 5, 143-147. 2015.
-- Zhao, C., et al. "Temperature increase reduces global yields of major crops in four independent estimates." *Proceedings of the National Academy of Sciences* 114(35). 2017.
-- Saini, H. S., Sedgley, M., and Aspinall, D. "Effect of heat stress during floral development on pollen tube growth and ovary anatomy in wheat." *Australian Journal of Plant Physiology*. 1983.
-- Sarkar, S., et al. "Tolerance mechanisms for breeding wheat against heat stress: A review." *South African Journal of Botany* 138. 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*, chapters addressing food systems and agricultural risk. 2022.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#agriculture-and-food-systems).
+
+- Asseng, S., et al. ["Rising temperatures reduce global wheat production."](https://doi.org/10.1038/nclimate2470) *Nature Climate Change* 5, 143-147. 2015.
+- Zhao, C., et al. ["Temperature increase reduces global yields of major crops in four independent estimates."](https://doi.org/10.1073/pnas.1701762114) *Proceedings of the National Academy of Sciences* 114(35). 2017.
+- Saini, H. S., Sedgley, M., and Aspinall, D. ["Effect of heat stress during floral development on pollen tube growth and ovary anatomy in wheat."](https://doi.org/10.1071/PP9830137) *Australian Journal of Plant Physiology*. 1983.
+- Sarkar, S., et al. ["Tolerance mechanisms for breeding wheat against heat stress: A review."](https://doi.org/10.1016/j.sajb.2021.01.003) *South African Journal of Botany* 138. 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/), chapters addressing food systems and agricultural risk. 2022.

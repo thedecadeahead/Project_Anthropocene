@@ -98,7 +98,9 @@ The old global population peak occurs before or during the century of fragmentat
 
 ## Sources
 
-- United Nations Department of Economic and Social Affairs, Population Division. *World Population Prospects 2024*. 2024.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- United Nations Population Fund. *State of World Population* series.
-- Institute for Health Metrics and Evaluation. Global fertility, mortality, and population scenario research.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#demography-and-migration).
+
+- United Nations Department of Economic and Social Affairs, Population Division. [*World Population Prospects 2024*](https://population.un.org/wpp/). 2024.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- United Nations Population Fund. [*State of World Population* series](https://www.unfpa.org/swop).
+- Institute for Health Metrics and Evaluation. [Global fertility, mortality, and population scenario research](https://www.healthdata.org/).

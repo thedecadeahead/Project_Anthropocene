@@ -83,7 +83,9 @@ Project Anthropocene should include at least one historically decisive multi-bre
 
 ## Sources
 
-- Kornhuber, K., Lesk, C., Schleussner, C.-F., Jägermeyr, J., and Pfleiderer, P. "Risks of synchronized low yields are underestimated in climate and crop model projections." *Nature Communications* 14, 3528. 2023.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- Food and Agriculture Organization. *The State of Food Security and Nutrition in the World*. Recurring annual series.
-- Puma, M. J., Bose, S., Chon, S. Y., and Cook, B. I. "Assessing the evolving fragility of the global food system." *Environmental Research Letters* 10. 2015.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#agriculture-and-food-systems).
+
+- Kornhuber, K., Lesk, C., Schleussner, C.-F., Jägermeyr, J., and Pfleiderer, P. ["Risks of synchronized low yields are underestimated in climate and crop model projections."](https://doi.org/10.1038/s41467-023-38906-7) *Nature Communications* 14, 3528. 2023.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- Food and Agriculture Organization. [*The State of Food Security and Nutrition in the World*](https://www.fao.org/publications/sofi). Recurring annual series.
+- Puma, M. J., Bose, S., Chon, S. Y., and Cook, B. I. ["Assessing the evolving fragility of the global food system."](https://doi.org/10.1088/1748-9326/10/2/024007) *Environmental Research Letters* 10. 2015.

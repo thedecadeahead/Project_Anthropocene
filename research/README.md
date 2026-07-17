@@ -4,6 +4,12 @@ The Project Anthropocene research library contains the evidence, source notes, m
 
 Research is kept separate from canon so that contributors can inspect how a fictional outcome was derived.
 
+## Show Your Work: The Master Bibliography
+
+[`bibliography.md`](bibliography.md) is the single, one-stop index of every major source used across the project. Each entry links directly to a stable public source (DOI, report landing page, or dataset home) and lists the research notes that rely on it, so any canon claim can be traced back to its evidence in one step.
+
+Every domain research note also carries a `## Sources` section whose citations link out directly and point back to the relevant section of the master bibliography. Start at the bibliography for a project-wide view, or at a note for the argument in context.
+
 ## Directory Structure
 
 ```text

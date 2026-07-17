@@ -92,7 +92,9 @@ Water failure should act as an amplifier across agriculture, energy, migration, 
 
 ## Sources
 
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- United Nations World Water Assessment Programme. *United Nations World Water Development Report 2024: Water for Prosperity and Peace*. UNESCO, 2024.
-- Food and Agriculture Organization. AQUASTAT global water information system.
-- World Resources Institute. Aqueduct Water Risk Atlas methodology and datasets.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#water).
+
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- United Nations World Water Assessment Programme. [*United Nations World Water Development Report 2024: Water for Prosperity and Peace*](https://www.unesco.org/reports/wwdr/en/2024). UNESCO, 2024.
+- Food and Agriculture Organization. [AQUASTAT global water information system](https://www.fao.org/aquastat/en/).
+- World Resources Institute. [Aqueduct Water Risk Atlas methodology and datasets](https://www.wri.org/aqueduct).

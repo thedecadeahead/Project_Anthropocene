@@ -105,8 +105,10 @@ The old era ends through the fragmentation of universal systems into regional an
 
 ## Sources
 
-- World Trade Organization. *World Trade Report* series and research on geopolitical fragmentation.
-- International Monetary Fund. Research on geoeconomic fragmentation and trade.
-- United Nations Conference on Trade and Development. *Review of Maritime Transport* series.
-- World Bank. *Global Economic Prospects* and supply-chain research.
-- Organisation for Economic Co-operation and Development. Supply-chain resilience and strategic-dependency research.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#governance-geopolitics-and-conflict).
+
+- World Trade Organization. [*World Trade Report* series](https://www.wto.org/english/res_e/publications_e/wtr_e.htm) and research on geopolitical fragmentation.
+- International Monetary Fund. [Research on geoeconomic fragmentation and trade](https://www.imf.org/en/Topics/climate-change).
+- United Nations Conference on Trade and Development. [*Review of Maritime Transport* series](https://unctad.org/rmt).
+- World Bank. [*Global Economic Prospects*](https://www.worldbank.org/en/publication/global-economic-prospects) and supply-chain research.
+- Organisation for Economic Co-operation and Development. [Supply-chain resilience and strategic-dependency research](https://www.oecd.org/en/topics/trade.html).

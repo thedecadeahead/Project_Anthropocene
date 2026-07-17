@@ -96,7 +96,9 @@ AI survives in layers. Frontier capability becomes concentrated, while local mod
 
 ## Sources
 
-- International Energy Agency. *Electricity 2024*, analysis of data-center electricity demand.
-- National Institute of Standards and Technology. *Artificial Intelligence Risk Management Framework 1.0*. 2023.
-- International Federation of Robotics. *World Robotics* annual series.
-- Semiconductor Industry Association and Boston Consulting Group. Semiconductor supply-chain assessments.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#technology).
+
+- International Energy Agency. [*Electricity 2024*](https://www.iea.org/reports/electricity-2024), analysis of data-center electricity demand.
+- National Institute of Standards and Technology. [*Artificial Intelligence Risk Management Framework 1.0*](https://www.nist.gov/itl/ai-risk-management-framework). 2023.
+- International Federation of Robotics. [*World Robotics* annual series](https://ifr.org/worldrobotics/).
+- Semiconductor Industry Association and Boston Consulting Group. [Semiconductor supply-chain assessments](https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-chain/).

@@ -110,6 +110,8 @@ Use approximately 0.75 meters of global mean sea-level rise by 2100 and approxim
 
 ## Sources
 
-- Intergovernmental Panel on Climate Change. *Climate Change 2021: The Physical Science Basis*, Chapter 9 and Summary for Policymakers. 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. 2023.
-- Sweet, W. V., et al. *Global and Regional Sea Level Rise Scenarios for the United States*. NOAA Technical Report NOS 01. 2022.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#climate).
+
+- Intergovernmental Panel on Climate Change. [*Climate Change 2021: The Physical Science Basis*](https://www.ipcc.ch/report/ar6/wg1/), Chapter 9 and Summary for Policymakers. 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2023: Synthesis Report*](https://www.ipcc.ch/report/ar6/syr/). 2023.
+- Sweet, W. V., et al. [*Global and Regional Sea Level Rise Scenarios for the United States*](https://oceanservice.noaa.gov/hazards/sealevelrise/sealevelrise-tech-report.html). NOAA Technical Report NOS 01. 2022.

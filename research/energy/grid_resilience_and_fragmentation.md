@@ -124,7 +124,9 @@ By the setting era, the old continental grids have largely fragmented into regio
 
 ## Sources
 
-- International Energy Agency. *Electricity Grids and Secure Energy Transitions*. 2023.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Mitigation of Climate Change*. 2022.
-- North American Electric Reliability Corporation. Long-Term Reliability Assessment series.
-- United States Department of Energy. Grid resilience and transformer supply-chain assessments.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#infrastructure-and-energy).
+
+- International Energy Agency. [*Electricity Grids and Secure Energy Transitions*](https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions). 2023.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Mitigation of Climate Change*](https://www.ipcc.ch/report/ar6/wg3/). 2022.
+- North American Electric Reliability Corporation. [Long-Term Reliability Assessment series](https://www.nerc.com/pa/RAPA/ra/Pages/default.aspx).
+- United States Department of Energy. [Grid resilience and transformer supply-chain assessments](https://www.energy.gov/topics/grid-deployment-and-transmission).

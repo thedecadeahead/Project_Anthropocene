@@ -101,8 +101,10 @@ The strongest post-collapse powers are maintenance states: societies that organi
 
 ## Sources
 
-- United Nations Industrial Development Organization. *Industrial Development Report* series.
-- International Energy Agency. Critical-mineral and clean-energy supply-chain assessments.
-- United States Department of Energy. *2023 Critical Materials Assessment*.
-- United States Geological Survey. Mineral Commodity Summaries series.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#infrastructure-and-energy).
+
+- United Nations Industrial Development Organization. [*Industrial Development Report* series](https://www.unido.org/idr).
+- International Energy Agency. [Critical-mineral and clean-energy supply-chain assessments](https://www.iea.org/topics/critical-minerals).
+- United States Department of Energy. [*2023 Critical Materials Assessment*](https://www.energy.gov/eere/wind/articles/doe-announces-new-critical-materials-assessment-and-funding-program).
+- United States Geological Survey. [Mineral Commodity Summaries series](https://www.usgs.gov/centers/national-minerals-information-center/mineral-commodity-summaries).
 - National Academies and national metrology institutes on manufacturing resilience, standards, and supply chains.

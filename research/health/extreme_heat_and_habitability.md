@@ -126,8 +126,10 @@ By the late 21st century, several tropical and subtropical regions should be sea
 
 ## Sources
 
-- Raymond, C., Matthews, T., and Horton, R. M. "The emergence of heat and humidity too severe for human tolerance." *Science Advances* 6(19). 2020.
-- Vecellio, D. J., Wolf, S. T., Cottle, R. M., and Kenney, W. L. "Evaluating the 35°C wet-bulb temperature adaptability threshold for young, healthy subjects." *Journal of Applied Physiology* 132(2). 2022.
-- Sherwood, S. C., and Huber, M. "An adaptability limit to climate change due to heat stress." *Proceedings of the National Academy of Sciences* 107(21). 2010.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- International Organization for Standardization. ISO 7243, occupational heat stress using the WBGT index.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#health).
+
+- Raymond, C., Matthews, T., and Horton, R. M. ["The emergence of heat and humidity too severe for human tolerance."](https://doi.org/10.1126/sciadv.aaw1838) *Science Advances* 6(19). 2020.
+- Vecellio, D. J., Wolf, S. T., Cottle, R. M., and Kenney, W. L. ["Evaluating the 35°C wet-bulb temperature adaptability threshold for young, healthy subjects."](https://doi.org/10.1152/japplphysiol.00738.2021) *Journal of Applied Physiology* 132(2). 2022.
+- Sherwood, S. C., and Huber, M. ["An adaptability limit to climate change due to heat stress."](https://doi.org/10.1073/pnas.0913352107) *Proceedings of the National Academy of Sciences* 107(21). 2010.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- International Organization for Standardization. [ISO 7243, occupational heat stress using the WBGT index](https://www.iso.org/standard/67188.html).

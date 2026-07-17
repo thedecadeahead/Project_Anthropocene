@@ -134,6 +134,8 @@ Revise this baseline when:
 
 ## Sources
 
-- Intergovernmental Panel on Climate Change. *Climate Change 2021: The Physical Science Basis*, Chapter 4: Future Global Climate. 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2023: Synthesis Report*. 2023.
-- United Nations Environment Programme. *Emissions Gap Report 2025: Off Target*. 2025.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#climate).
+
+- Intergovernmental Panel on Climate Change. [*Climate Change 2021: The Physical Science Basis*](https://www.ipcc.ch/report/ar6/wg1/), Chapter 4: Future Global Climate. 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2023: Synthesis Report*](https://www.ipcc.ch/report/ar6/syr/). 2023.
+- United Nations Environment Programme. [*Emissions Gap Report 2025: Off Target*](https://www.unep.org/resources/emissions-gap-report-2025). 2025.

@@ -104,7 +104,9 @@ The unraveling of coastal and wildfire-prone property markets should begin decad
 
 ## Sources
 
-- United States Department of the Treasury, Federal Insurance Office. *Analyses of U.S. Homeowners Insurance Markets, 2018-2022: Climate-Related Risks and Other Factors*. 2025.
-- United States Government Accountability Office. *Climate Change: Opportunities to Reduce Federal Fiscal Exposure*. Recurring high-risk work and related reports.
-- Financial Stability Oversight Council. *Report on Climate-Related Financial Risk*. 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#economics-and-insurance).
+
+- United States Department of the Treasury, Federal Insurance Office. [*Analyses of U.S. Homeowners Insurance Markets, 2018-2022: Climate-Related Risks and Other Factors*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/federal-insurance-office). 2025.
+- United States Government Accountability Office. [*Climate Change: Opportunities to Reduce Federal Fiscal Exposure*](https://www.gao.gov/climate-change). Recurring high-risk work and related reports.
+- Financial Stability Oversight Council. [*Report on Climate-Related Financial Risk*](https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/fsoc/studies-and-reports). 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.

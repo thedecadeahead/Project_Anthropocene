@@ -105,8 +105,10 @@ The end of the old global order occurs through prolonged functional retreat. Man
 
 ## Sources
 
-- OECD. *States of Fragility* series.
-- World Bank. Worldwide Governance Indicators and research on state capability.
-- United Nations Office for Disaster Risk Reduction. *Global Assessment Report on Disaster Risk Reduction* series.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- International Monetary Fund. Research on climate shocks, fiscal space, and sovereign risk.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#governance-geopolitics-and-conflict).
+
+- OECD. [*States of Fragility* series](https://www3.compareyourcountry.org/states-of-fragility/).
+- World Bank. [Worldwide Governance Indicators](https://www.worldbank.org/en/publication/worldwide-governance-indicators) and research on state capability.
+- United Nations Office for Disaster Risk Reduction. [*Global Assessment Report on Disaster Risk Reduction* series](https://www.undrr.org/gar).
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- International Monetary Fund. [Research on climate shocks, fiscal space, and sovereign risk](https://www.imf.org/en/Topics/climate-change).

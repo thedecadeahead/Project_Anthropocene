@@ -102,7 +102,9 @@ By the setting era, the old internet survives as a hierarchy of regional nets, p
 
 ## Sources
 
-- International Telecommunication Union. Emergency telecommunications and disaster-resilience guidance.
-- Matracia, M., Saeed, N., Kishk, M. A., and Alouini, M.-S. "Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges." 2022.
-- Internet Engineering Task Force. Delay-Tolerant Networking architecture and Bundle Protocol standards.
-- TeleGeography. Global submarine cable infrastructure datasets and maps.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#infrastructure-and-energy).
+
+- International Telecommunication Union. [Emergency telecommunications and disaster-resilience guidance](https://www.itu.int/en/ITU-D/Emergency-Telecommunications/Pages/default.aspx).
+- Matracia, M., Saeed, N., Kishk, M. A., and Alouini, M.-S. ["Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges."](https://doi.org/10.1109/OJCOMS.2022.3192040) 2022.
+- Internet Engineering Task Force. [Delay-Tolerant Networking architecture and Bundle Protocol standards (RFC 9171)](https://datatracker.ietf.org/doc/rfc9171/).
+- TeleGeography. [Global submarine cable infrastructure datasets and maps](https://www.submarinecablemap.com/).

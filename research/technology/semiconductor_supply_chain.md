@@ -91,7 +91,9 @@ Leading-edge chip production survives only within a few highly integrated indust
 
 ## Sources
 
-- Semiconductor Industry Association and Boston Consulting Group. *Strengthening the Global Semiconductor Supply Chain in an Uncertain Era*. 2021.
-- Semiconductor Industry Association and Boston Consulting Group. *Emerging Resilience in the Semiconductor Supply Chain*. 2024.
-- United States Department of Commerce. *The Semiconductor Supply Chain: Assessing National Competitiveness*. 2023.
-- United States Department of Energy. Semiconductor supply-chain deep-dive assessments.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#technology).
+
+- Semiconductor Industry Association and Boston Consulting Group. [*Strengthening the Global Semiconductor Supply Chain in an Uncertain Era*](https://www.semiconductors.org/strengthening-the-global-semiconductor-supply-chain-in-an-uncertain-era/). 2021.
+- Semiconductor Industry Association and Boston Consulting Group. [*Emerging Resilience in the Semiconductor Supply Chain*](https://www.semiconductors.org/emerging-resilience-in-the-semiconductor-supply-chain/). 2024.
+- Khan, S. M., Mann, A., and Peterson, D. [*The Semiconductor Supply Chain: Assessing National Competitiveness*](https://cset.georgetown.edu/publication/the-semiconductor-supply-chain/). Center for Security and Emerging Technology, 2021. _(Earlier drafts attributed this title to the U.S. Department of Commerce; the exact-title report is the CSET issue brief.)_
+- United States Department of Energy. [*Semiconductor Supply Chain Deep Dive Assessment*](https://www.osti.gov/biblio/1871585). 2022.

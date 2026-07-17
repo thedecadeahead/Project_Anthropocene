@@ -108,8 +108,10 @@ Climate change contributes to the century of fragmentation by amplifying existin
 
 ## Sources
 
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*, chapters on human security, migration, and conflict. 2022.
-- Mach, K. J., et al. "Climate as a risk factor for armed conflict." *Nature* 571. 2019.
-- von Uexkull, N., and Buhaug, H. "Security implications of climate change: A decade of scientific progress." *Journal of Peace Research* 58(1). 2021.
-- United Nations Environment Programme. Research on climate change and security risks.
-- Stockholm International Peace Research Institute. Climate-related security research.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#governance-geopolitics-and-conflict).
+
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/), chapters on human security, migration, and conflict. 2022.
+- Mach, K. J., et al. ["Climate as a risk factor for armed conflict."](https://doi.org/10.1038/s41586-019-1300-6) *Nature* 571. 2019.
+- von Uexkull, N., and Buhaug, H. ["Security implications of climate change: A decade of scientific progress."](https://doi.org/10.1177/0022343320984210) *Journal of Peace Research* 58(1). 2021.
+- United Nations Environment Programme. [Research on climate change and security risks](https://www.unep.org/topics/climate-action/climate-and-security-risks).
+- Stockholm International Peace Research Institute. [Climate-related security research](https://www.sipri.org/research/peace-and-development/climate-change-and-risk).

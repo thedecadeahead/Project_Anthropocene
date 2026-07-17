@@ -100,8 +100,10 @@ Migration becomes one of the primary engines of cultural and political transform
 
 ## Sources
 
-- Clement, V., et al. *Groundswell Part 2: Acting on Internal Climate Migration*. World Bank, 2021.
-- Intergovernmental Panel on Climate Change. *Climate Change 2022: Impacts, Adaptation and Vulnerability*. 2022.
-- Internal Displacement Monitoring Centre. *Global Report on Internal Displacement* annual series.
-- International Organization for Migration. *World Migration Report* series.
-- United Nations High Commissioner for Refugees. Legal and policy guidance concerning climate change and displacement.
+Full citations and stable links are indexed in the [master bibliography](../bibliography.md#demography-and-migration).
+
+- Clement, V., et al. [*Groundswell Part 2: Acting on Internal Climate Migration*](https://openknowledge.worldbank.org/handle/10986/36248). World Bank, 2021.
+- Intergovernmental Panel on Climate Change. [*Climate Change 2022: Impacts, Adaptation and Vulnerability*](https://www.ipcc.ch/report/ar6/wg2/). 2022.
+- Internal Displacement Monitoring Centre. [*Global Report on Internal Displacement* annual series](https://www.internal-displacement.org/global-report/grid2024/).
+- International Organization for Migration. [*World Migration Report* series](https://worldmigrationreport.iom.int/).
+- United Nations High Commissioner for Refugees. [Legal and policy guidance concerning climate change and displacement](https://www.unhcr.org/what-we-do/build-better-futures/environment-disasters-and-climate-change).
